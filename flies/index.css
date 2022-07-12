@@ -21,7 +21,7 @@ html{
 body{
     font-size: 1.6rem;
     font-family: "Poppins", sans-serif;
-    min-height: 100vh;
+    min-height: 90vh;
     background-color: var(--light-blue);
     display: flex;
     align-items: center;
